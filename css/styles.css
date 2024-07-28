@@ -1,6 +1,10 @@
 .link {
-  color: #2e2f42,
-  font-size: 12px;
+  color: #2e2f42;
+}
+
+.link {
+  font-size: 12px,
+  line-height: 1.333
 }
 
 .link:hover,
@@ -19,6 +23,7 @@
 
 .mail {
   color: #434455;
+  font-size: 12px;
 }
 
 .mail:hover,
@@ -28,6 +33,7 @@
 
 .tel {
   color: #434455;
+  font-size: 12px;
 }
 
 .tel:hover,
@@ -42,16 +48,21 @@ body {
 
 .main-header {
   color: #ffffff;
+  font-size: 56px;
 }
 
 .second-header {
   color: #2e2f42;
+  font-size: 36px;
 }
 
 .third-header {
   color: #2e2f42;
+  font-size: 20px;
 }
 
 .small-text {
   color: #434455;
+  font-size: 12px,
+  line-height: 1.16
 }
