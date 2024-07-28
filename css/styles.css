@@ -14,3 +14,22 @@
 .button:focus {
   color: #2e2f42;
 }
+
+.mail {
+    color:#2e2f42
+}
+
+.mail:hover,
+.mail:focus{
+    color: #4d5ae5
+}
+
+.tel {
+    color: #2e2f42 
+}
+}
+.tel:hover,
+.tel:focus {
+    color: #4d5ae5
+}
+}
