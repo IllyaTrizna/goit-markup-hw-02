@@ -1,6 +1,8 @@
 .link {
-  color: #2e2f42;
+  color: #2e2f42,
+  font-size: 12px;
 }
+
 .link:hover,
 .link:focus {
   color: #4d5ae5;
@@ -48,4 +50,8 @@ body {
 
 .third-header {
   color: #2e2f42;
+}
+
+.small-text {
+  color: #434455;
 }
