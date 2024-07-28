@@ -37,3 +37,15 @@ body {
   font-family: "Roboto" "Helvetica Neue", "Verdana", sans-serif;
   color: #2e2f42;
 }
+
+.main-header {
+  color: #ffffff;
+}
+
+.second-header {
+  color: #2e2f42;
+}
+
+.third-header {
+  color: #2e2f42;
+}
