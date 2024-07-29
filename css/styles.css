@@ -81,6 +81,11 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
+
+.second-header-our-portfolio {
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
 .third-header {
   color: #2e2f42;
   font-size: 20px;
