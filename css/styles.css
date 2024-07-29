@@ -1,3 +1,17 @@
+.logo-webstudio-header {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.accent {
+  color: #2e2f42;
+}
+
 .link {
   color: #2e2f42;
   font-size: 12px;
@@ -107,8 +121,10 @@ body {
 .third-header {
   color: #2e2f42;
   font-size: 20px;
-  font-weight: medium;
+  font-weight: 500;
   font-family: "Roboto", sans-serif;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .small-text {
