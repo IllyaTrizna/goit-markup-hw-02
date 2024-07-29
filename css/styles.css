@@ -1,12 +1,6 @@
 .link {
   color: #2e2f42;
-}
-
-.link {
   font-size: 12px;
-}
-
-.link {
   line-height: 1.333;
 }
 
@@ -56,6 +50,7 @@ body {
   color: #ffffff;
   font-size: 56px;
   line-height: 1.07;
+  background-color: #2e2f42;
 }
 
 .second-header {
@@ -71,8 +66,25 @@ body {
 .small-text {
   color: #434455;
   font-size: 12px;
+  line-height: 1.16;
 }
 
-.small-text {
-  line-height: 1.16;
+.our-team {
+  background-color: #f4f4fd;
+}
+
+.advantages {
+  background-color: #ffffff;
+}
+
+.our-portfolio {
+  background-color: #ffffff;
+}
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer-text {
+  color: #f4f4fd;
 }
