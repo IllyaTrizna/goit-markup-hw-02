@@ -43,7 +43,7 @@
   font-size: 16px;
   letter-spacing: 0.04em;
   font-family: "Roboto", sans-serif;
-  background-color: #404bbf;
+  background-color: #4d5ae5;
   cursor: pointer;
 }
 
@@ -65,7 +65,7 @@ body {
   font-weight: regular;
 }
 
-.section-one {
+.main-section {
   background-color: #2e2f42;
 }
 
@@ -90,11 +90,13 @@ body {
 }
 
 .second-header-our-team {
-  line-height: 1.2;
+  font-size: 36px;
+  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   font-weight: 500;
+  color: #2e2f42;
 }
 
 .our-team-list {
@@ -126,11 +128,11 @@ body {
   font-weight: regular;
 }
 
-.our-team {
+.our-team-section {
   background-color: #f4f4fd;
 }
 
-.advantages {
+.advantages-section {
   background-color: #ffffff;
 }
 
