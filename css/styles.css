@@ -8,6 +8,14 @@
   color: #4d5ae5;
 }
 
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
 .accent {
   color: #2e2f42;
 }
