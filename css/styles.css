@@ -2,6 +2,7 @@
   color: #2e2f42;
   font-size: 12px;
   line-height: 1.333;
+  font-weight: regular;
 }
 
 .link:hover,
@@ -12,6 +13,8 @@
 .button {
   color: #ffffff;
   line-height: 1.5;
+  font-weight: medium;
+  background-color: #4d5ae5;
 }
 
 .button:hover,
@@ -23,6 +26,7 @@
   color: #434455;
   font-size: 12px;
   line-height: 1.16;
+  font-weight: regular;
 }
 
 .mail:hover,
@@ -34,6 +38,7 @@
   color: #434455;
   font-size: 12px;
   line-height: 1.16;
+  font-weight: regular;
 }
 
 .tel:hover,
@@ -44,6 +49,7 @@
 body {
   font-family: "Roboto" "Helvetica Neue", "Verdana", sans-serif;
   color: #2e2f42;
+  font-weight: regular;
 }
 
 .main-header {
@@ -51,22 +57,26 @@ body {
   font-size: 56px;
   line-height: 1.07;
   background-color: #2e2f42;
+  font-weight: bold;
 }
 
 .second-header {
   color: #2e2f42;
   font-size: 36px;
+  font-weight: bold;
 }
 
 .third-header {
   color: #2e2f42;
   font-size: 20px;
+  font-weight: medium;
 }
 
 .small-text {
   color: #434455;
   font-size: 12px;
   line-height: 1.16;
+  font-weight: regular;
 }
 
 .our-team {
@@ -87,4 +97,5 @@ body {
 
 .footer-text {
   color: #f4f4fd;
+  font-weight: regular;
 }
