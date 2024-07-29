@@ -24,6 +24,7 @@
 
 .button:hover,
 .button:focus {
+  background-color: #404bbf;
   color: #2e2f42;
 }
 
