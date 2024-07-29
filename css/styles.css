@@ -3,7 +3,7 @@
   font-size: 12px;
   line-height: 1.333;
   font-weight: medium;
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .link:hover,
@@ -15,7 +15,7 @@
   color: #ffffff;
   line-height: 1.5;
   font-weight: medium;
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
   background-color: #4d5ae5;
   cursor: pointer;
 }
@@ -29,7 +29,7 @@
   color: #434455;
   font-size: 12px;
   line-height: 1.16;
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: regular;
 }
 
@@ -42,7 +42,7 @@
   color: #434455;
   font-size: 12px;
   line-height: 1.16;
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: regular;
 }
 
@@ -52,7 +52,7 @@
 }
 
 body {
-  font-family: "Roboto" "Helvetica Neue", "Verdana", sans-serif;
+  font-family: "Roboto", "Helvetica Neue", "Verdana", sans-serif;
   color: #2e2f42;
   font-weight: regular;
 }
@@ -62,12 +62,14 @@ body {
   font-size: 56px;
   line-height: 1.07;
   background-color: #2e2f42;
+  font-family: "Roboto", sans-serif;
   font-weight: bold;
 }
 
 .second-header {
   color: #2e2f42;
   font-size: 36px;
+  font-family: "Roboto", sans-serif;
   font-weight: bold;
 }
 
@@ -75,14 +77,14 @@ body {
   color: #2e2f42;
   font-size: 20px;
   font-weight: medium;
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .small-text {
   color: #434455;
   font-size: 12px;
   line-height: 1.16;
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: regular;
 }
 
@@ -104,6 +106,11 @@ body {
 
 .footer-text {
   color: #f4f4fd;
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: regular;
+}
+
+.webstudio {
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
 }
