@@ -110,7 +110,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   font-size: 36px;
-  color:#2e2f42;
+  color: #2e2f42;
 }
 .third-header {
   color: #2e2f42;
@@ -152,7 +152,12 @@ body {
   font-weight: regular;
 }
 
-.webstudio {
+.logo-webstudio-footer {
   font-family: "Raleway", sans-serif;
-  font-weight: bold;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
