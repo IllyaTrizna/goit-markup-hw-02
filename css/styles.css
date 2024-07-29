@@ -28,6 +28,12 @@
 
 .address {
   font-style: normal;
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-family: "Roboto", sans-serif;
+  font-weight: regular;
 }
 
 .button {
@@ -37,7 +43,7 @@
   font-size: 16px;
   letter-spacing: 0.04em;
   font-family: "Roboto", sans-serif;
-  background-color: #4d5ae5;
+  background-color: #404bbf;
   cursor: pointer;
 }
 
@@ -47,31 +53,9 @@
   color: #2e2f42;
 }
 
-.mail {
-  color: #434455;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  font-family: "Roboto", sans-serif;
-  font-weight: regular;
-}
-
-.mail:hover,
-.mail:focus {
+.address:hover,
+.address:focus {
   color: #404bbf;
-}
-
-.tel {
-  color: #434455;
-  font-size: 12px;
-  line-height: 1.16;
-  font-family: "Roboto", sans-serif;
-  font-weight: regular;
-}
-
-.tel:hover,
-.tel:focus {
-  color: #4d5ae5;
 }
 
 body {
